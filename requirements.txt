@@ -1,0 +1,6 @@
+robotframework==3.2.1
+robotframework-databaselibrary==1.2.4
+robotframework-datadriver==0.3.6
+robotframework-pabot==1.8.1
+robotframework-pythonlibcore==2.1.0
+robotframework-seleniumlibrary==3.3.1
